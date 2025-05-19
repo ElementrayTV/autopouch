@@ -1,0 +1,49 @@
+<settings>
+    <threshold>20</threshold>
+
+    <pairs>
+        <!-- Ninja Tools -->
+        <pair main="Shihei" pouch="Toolbag (shihe)" job="NIN" />
+        <pair main="Jusatsu" pouch="Toolbag (jusatsu)" job="NIN" />
+        <pair main="Sairui-Ran" pouch="Toolbag (sairui-ran)" job="NIN" />
+        <pair main="Kaginawa" pouch="Toolbag (kaginawa)" job="NIN" />
+        <pair main="Kodoku" pouch="Toolbag (kodoku)" job="NIN" />
+        <pair main="Mokujin" pouch="Toolbag (mokujin)" job="NIN" />
+        <pair main="Furusumi" pouch="Toolbag (furusumi)" job="NIN" />
+        <pair main="Uchitake" pouch="Toolbag (uchitake)" job="NIN" />
+        <pair main="Mizu-Deppo" pouch="Toolbag (mizu-deppo)" job="NIN" />
+        <pair main="Ryuno" pouch="Toolbag (ryuno)" job="NIN" />
+
+        <!-- Arrows & Quivers -->
+        <pair main="Wooden Arrow" pouch="Quiver" job="RNG" />
+        <pair main="Iron Arrow" pouch="Quiver" job="RNG" />
+        <pair main="Silver Arrow" pouch="Quiver" job="RNG" />
+        <pair main="Scorpion Arrow" pouch="Quiver" job="RNG" />
+        <pair main="Holy Arrow" pouch="Quiver" job="RNG" />
+        <pair main="Sleep Arrow" pouch="Quiver" job="RNG" />
+        <pair main="Fire Arrow" pouch="Quiver" job="RNG" />
+        <pair main="Ice Arrow" pouch="Quiver" job="RNG" />
+        <pair main="Lightning Arrow" pouch="Quiver" job="RNG" />
+        <pair main="Kabura Arrow" pouch="Quiver" job="RNG" />
+
+        <!-- Bolts & Bolt Quivers -->
+        <pair main="Acid Bolt" pouch="Bolt Quiver" job="RNG" />
+        <pair main="Blind Bolt" pouch="Bolt Quiver" job="RNG" />
+        <pair main="Bloody Bolt" pouch="Bolt Quiver" job="RNG" />
+        <pair main="Holy Bolt" pouch="Bolt Quiver" job="RNG" />
+        <pair main="Sleep Bolt" pouch="Bolt Quiver" job="RNG" />
+        <pair main="Venom Bolt" pouch="Bolt Quiver" job="RNG" />
+        <pair main="Dark Bolt" pouch="Bolt Quiver" job="RNG" />
+        <pair main="Dulling Bolt" pouch="Bolt Quiver" job="RNG" />
+        <pair main="Scorpion Bolt" pouch="Bolt Quiver" job="RNG" />
+        <pair main="Stone Bolt" pouch="Bolt Quiver" job="RNG" />
+
+        <!-- Bullets & Bullet Pouches -->
+        <pair main="Silver Bullet" pouch="Bullet Pouch" job="COR" />
+        <pair main="Bronze Bullet" pouch="Bullet Pouch" job="COR" />
+        <pair main="Corsair Bullet" pouch="Bullet Pouch" job="COR" />
+        <pair main="Bloody Bullet" pouch="Bullet Pouch" job="COR" />
+        <pair main="Iron Bullet" pouch="Bullet Pouch" job="COR" />
+        <pair main="Bullet" pouch="Bullet Pouch" job="COR" />
+    </pairs>
+</settings>
