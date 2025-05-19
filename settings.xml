@@ -13,9 +13,9 @@
         <pair main="Uchitake" pouch="Toolbag (uchitake)" job="NIN" />
         <pair main="Mizu-Deppo" pouch="Toolbag (mizu-deppo)" job="NIN" />
         <pair main="Ryuno" pouch="Toolbag (ryuno)" job="NIN" />
-		<pair main="Shikanofuda" pouch="Toolbag (shika)" job="NIN" />
-		<pair main="Chonofuda" pouch="Toolbag (cho)" job="NIN" />
-		<pair main="Inoshishinofuda" pouch="Toolbag (ino)" job="NIN" />
+	<pair main="Shikanofuda" pouch="Toolbag (shika)" job="NIN" />
+	<pair main="Chonofuda" pouch="Toolbag (cho)" job="NIN" />
+	<pair main="Inoshishinofuda" pouch="Toolbag (ino)" job="NIN" />
 
         <!-- Arrows & Quivers -->
         <pair main="Wooden Arrow" pouch="Quiver" job="RNG" />
