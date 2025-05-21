@@ -16,6 +16,7 @@ defaults = {
 }
 
 settings = config.load(defaults)
+settings:save() -- Optional: ensures a default XML is written if it doesn’t exist
 
 function get_item_id_by_name(name)
     if not name then return nil end
