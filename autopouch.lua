@@ -37,44 +37,36 @@ defaults = {
 				
 
         -- Arrows
-        {main = "Wooden Arrow", pouch = "Wooden Quiver", job = "RNG"},
-		{main = "Stone Arrow", pouch = "Stone Quiver", job = "RNG"},
+        {main = "Stone Arrow", pouch = "Stone Quiver", job = "RNG"},
 		{main = "Bone Arrow", pouch = "Bone Quiver", job = "RNG"},
 		{main = "Beetle Arrow", pouch = "Beetle Quiver", job = "RNG"},
 		{main = "Horn Arrow", pouch = "Horn Quiver", job = "RNG"},
 		{main = "Demon Arrow", pouch = "Demon Quiver", job = "RNG"},
 		{main = "Antlion Arrow", pouch = "Antlion Quiver", job = "RNG"},
         {main = "Iron Arrow", pouch = "Iron Quiver", job = "RNG"},
-		{main = "Ruszor Arrow", pouch = "Ruszoe Quiver", job = "RNG"},
-		{main = "Gargou. Arrow", pouch = "Gargou. Quiver", job = "RNG"},
+		{main = "Ruszor Arrow", pouch = "Ruszor Quiver", job = "RNG"},
+		{main = "Gargouille Arrow", pouch = "Gargou. Quiver", job = "RNG"},
 		{main = "Mantid Arrow", pouch = "Mantid Quiver", job = "RNG"},
 		{main = "Tulfaire Arrow", pouch = "Tulfaire Quiver", job = "RNG"},
 		{main = "Raaz Arrow", pouch = "Raaz Quiver", job = "RNG"},
 		{main = "Adlivun Arrow", pouch = "Adlivun Quiver", job = "RNG"},
 		{main = "Ra'Kaznar Arrow", pouch = "Ra'Kaznar Quiver", job = "RNG"},
-		{main = "Wooden Arrow", pouch = "Wooden Quiver", job = "RNG"},
-        {main = "Eminent Arrow", pouch = "Eminent Quiver", job = "RNG"},
-        {main = "Scorpion Arrow", pouch = "Soorpion Quiver", job = "RNG"},
-        {main = "Holy Arrow", pouch = "Holy Quiver", job = "RNG"},
+		{main = "Eminent Arrow", pouch = "Eminent Quiver", job = "RNG"},
+        {main = "Scorpion Arrow", pouch = "Scorpion Quiver", job = "RNG"},
         {main = "Sleep Arrow", pouch = "Sleep Quiver", job = "RNG"},
-        {main = "Fire Arrow", pouch = "Fire Quiver", job = "RNG"},
-        {main = "Ice Arrow", pouch = "Ice Quiver", job = "RNG"},
-        {main = "Lightning Arrow", pouch = "Lightning Quiver", job = "RNG"},
         {main = "Kabura Arrow", pouch = "Kabura Quiver", job = "RNG"},
 
         -- Bolts
         {main = "Acid Bolt", pouch = "Ac. Bolt Quiver", job = "RNG"},
         {main = "Bronze Bolt", pouch = "B. Bolt Quiver", job = "RNG"},
         {main = "Blind Bolt", pouch = "Bln. Bolt Quiver", job = "RNG"},
-        {main = "Bloody Bolt", pouch = "Bloody Bolt Quiver", job = "RNG"},
+        {main = "Bloody Bolt", pouch = "Bld. Bolt Quiver", job = "RNG"},
         {main = "Holy Bolt", pouch = "Hol. Bolt Quiver", job = "RNG"},
 		{main = "Mythril Bolt", pouch = "M. Bolt Quiver", job = "RNG"},
 		{main = "Darksteel Bolt", pouch = "D. Bolt Quiver", job = "RNG"},
 		{main = "Darkling Bolt", pouch = "Dkl. Bolt Quiver", job = "RNG"},
 		{main = "Fusion Bolt", pouch = "Fsn. Bolt Quiver", job = "RNG"},
-		{main = "Dark Adaman Bolt", pouch = "D.A. Bolt Quiver", job = "RNG"},
 		{main = "Adaman Bolt", pouch = "A. Bolt Quiver", job = "RNG"},
-		{main = "Oxodant Bolt", pouch = "O. Bolt Quiver", job = "RNG"},
 		{main = "Midrium Bolt", pouch = "Mid. Bolt Quiver", job = "RNG"},
 		{main = "Damascus Bolt", pouch = "Dm. Bolt Quiver", job = "RNG"},
 		{main = "Titanium Bolt", pouch = "T. Bolt Quiver", job = "RNG"},
@@ -86,20 +78,16 @@ defaults = {
 		{main = "Righteous Bolt", pouch = "Rig. Bolt Quiver", job = "RNG"},
 		{main = "Eminent Bolt", pouch = "Em. Bolt Quiver", job = "RNG"},
         {main = "Sleep Bolt", pouch = "Slp. Bolt Quiver", job = "RNG"},
-        {main = "Venom Bolt", pouch = "Ven. Bolt Quiver", job = "RNG"},
-        {main = "Dark Bolt", pouch = "Dark Bolt Quiver", job = "RNG"},
-        {main = "Dulling Bolt", pouch = "Dulling Bolt Quiver", job = "RNG"},
-        {main = "Scorpion Bolt", pouch = "Scorpion Bolt Quiver", job = "RNG"},
-        {main = "Stone Bolt", pouch = "Stone Bolt Quiver", job = "RNG"},
+        {main = "Venom Bolt", pouch = "Vn. Bolt Quiver", job = "RNG"},
 
         -- Bullets
         {main = "Silver Bullet", pouch = "Silv. Bul. Pouch", job = "COR"},
-        {main = "Bronze Bullet", pouch = "Brz Bull. Pouch", job = "COR"},
+        {main = "Bronze Bullet", pouch = "Brz. Bull. Pouch", job = "COR"},
 		{main = "Steel Bullet", pouch = "Stl. Bull. Pouch", job = "COR"},
 		{main = "Dweomer Bullet", pouch = "Dwm. Bul. Pouch", job = "COR"},
-		{main = "Oberon Bullet", pouch = "Obr. Bull. Pouch", job = "COR"},
-		{main = "Dark Adaman Bullet", pouch = "D.A. Bull. Pouch", job = "COR"},
-		{main = "Orichalcum Bullet", pouch = "O. Bull. Pouch", job = "COR"},
+		{main = "Oberon's Bullet", pouch = "Obr. Bull. Pouch", job = "COR"},
+		{main = "Drk. Adm. Bullet", pouch = "D.A. Bull. Pouch", job = "COR"},
+		{main = "Orichalc. Bullet", pouch = "O. Bull. Pouch", job = "COR"},
 		{main = "Adaman Bullet", pouch = "A. Bull. Pouch", job = "COR"},
 		{main = "Midrium Bullet", pouch = "Mid. Bul. Pouch", job = "COR"},
 		{main = "Damascus Bullet", pouch = "Dm. Bul. Pouch", job = "COR"},
@@ -109,8 +97,8 @@ defaults = {
 		{main = "Decimating Bullet", pouch = "Dec. Bul. Pouch", job = "COR"},
 		{main = "Ra'Kaznar Bullet", pouch = "Ra. Bul. Pouch", job = "COR"},
 		{main = "Eminent Bullet", pouch = "Em. Bul. Pouch", job = "COR"},
-		{main = "Spartan Bullet", pouch = "Spar. Bull. Pouch", job = "COR"},
-        {main = "Corsair Bullet", pouch = "Cor Bull. Pouch", job = "COR"},
+		{main = "Spartan Bullet", pouch = "Spar. Bul. Pouch", job = "COR"},
+        {main = "Corsair Bullet", pouch = "Cor. Bull. Pouch", job = "COR"},
         {main = "Iron Bullet", pouch = "Iron Bull. Pouch", job = "COR"},
 		{main = "Bullet", pouch = "Bullet Pouch", job = "COR"},
         {main = "Chrono Bullet", pouch = "Chr. Bul. Pouch", job = "COR"},
@@ -139,7 +127,8 @@ defaults = {
     }
 }
 
-settings = config.load(defaults)
+settings = config.load(defaults, true)  -- the `true` disables automatic saving
+
 
 -- Coroutine to equip and use an item
 function equip_and_use_item(pouch_name, slot, main_name)
