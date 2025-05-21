@@ -13,9 +13,9 @@
         <pair main="Uchitake" pouch="Toolbag (uchitake)" job="NIN" />
         <pair main="Mizu-Deppo" pouch="Toolbag (mizu-deppo)" job="NIN" />
         <pair main="Ryuno" pouch="Toolbag (ryuno)" job="NIN" />
-	<pair main="Shikanofuda" pouch="Toolbag (shika)" job="NIN" />
-	<pair main="Chonofuda" pouch="Toolbag (cho)" job="NIN" />
-	<pair main="Inoshishinofuda" pouch="Toolbag (ino)" job="NIN" />
+		<pair main="Shikanofuda" pouch="Toolbag (shika)" job="NIN" />
+		<pair main="Chonofuda" pouch="Toolbag (cho)" job="NIN" />
+		<pair main="Inoshishinofuda" pouch="Toolbag (ino)" job="NIN" />
 
         <!-- Arrows & Quivers -->
         <pair main="Wooden Arrow" pouch="Quiver" job="RNG" />
@@ -48,5 +48,16 @@
         <pair main="Bloody Bullet" pouch="Bullet Pouch" job="COR" />
         <pair main="Iron Bullet" pouch="Bullet Pouch" job="COR" />
         <pair main="Bullet" pouch="Bullet Pouch" job="COR" />
+		
+	<!-- Cards & Bullet Cases -->
+	<pair main="Fire Card" pouch="Fire Card Case" job="COR" />
+	<pair main="Ice Card" pouch="Ice Card Case" job="COR" />
+	<pair main="Wind Card" pouch="Wind Card Case" job="COR" />
+	<pair main="Earth Card" pouch="Earth Card Case" job="COR" />
+	<pair main="Thunder Card" pouch="Thunder Card Case" job="COR" />
+	<pair main="Water Card" pouch="Water Card Case" job="COR" />
+	<pair main="Light Card" pouch="Light Card Case" job="COR" />
+	<pair main="Dark Card" pouch="Dark Card Case" job="COR" />
+	<pair main="Trump Card" pouch="Trump Card Case" job="COR" />
     </pairs>
 </settings>
