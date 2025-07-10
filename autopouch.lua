@@ -71,6 +71,7 @@ defaults = {
 		{main = "Damascus Bolt", pouch = "Dm. Bolt Quiver", job = "RNG"},
 		{main = "Titanium Bolt", pouch = "T. Bolt Quiver", job = "RNG"},
 		{main = "Bismuth Bolt", pouch = "Bi. Bolt Quiver", job = "RNG"},
+		{main = "Quelling Bolt", pouch = "Quelling B. Quiver", job = "RNG"},
 		{main = "Adlivun Bolt", pouch = "Ad. Bolt Quiver", job = "RNG"},
 		{main = "Gashing Bolt", pouch = "Gash. Bolt Quiver", job = "RNG"},
 		{main = "Ra'Kaznar Bolt", pouch = "Ra. Bolt Quiver", job = "RNG"},
